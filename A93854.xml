@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-Year-gift, or, The youth's instructor through the wilderness of this world, to the mansions of eternal glory. With a most pious and religious catechism, fitting for the capacities of young children; with several morning and evening prayers : and prayers before and after the receiving the Holy Communion. : With graces before and after meat. : To which is added the life of Mrs. Elizabeth Robinson. : Recommended as useful and very necessary for the use of children, / by D. Stephens. ; Printed according to order.</title>
+            <author>Stephens, D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93854</idno>
+            <idno type="STC">Wing S5413</idno>
+            <idno type="STC">ESTC R184624</idno>
+            <idno type="EEBO-CITATION">43077646</idno>
+            <idno type="OCLC">ocm 43077646</idno>
+            <idno type="VID">151755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151755)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2275:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-Year-gift, or, The youth's instructor through the wilderness of this world, to the mansions of eternal glory. With a most pious and religious catechism, fitting for the capacities of young children; with several morning and evening prayers : and prayers before and after the receiving the Holy Communion. : With graces before and after meat. : To which is added the life of Mrs. Elizabeth Robinson. : Recommended as useful and very necessary for the use of children, / by D. Stephens. ; Printed according to order.</title>
+                  <author>Stephens, D.</author>
+               </titleStmt>
+               <extent>[1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Wilkins, near Fleet-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXXXXVIII [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robinson, Elizabeth.</term>
+               <term>Bible --  Examinations, questions, etc.</term>
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151755:1" rendition="simple:additions"/>
+            <p>
+               <hi>A New Years Gift.</hi>
+            </p>
+            <p>OR, THE Youth's Inſtructor THROUGH The Wilderneſs of this World, TO THE <hi>Manſions of Eternal Glory.</hi> WITH A moſt Pious and Religious Catechiſm, fitting for the Capacities of Young Chil<g ref="char:EOLhyphen"/>dren; with ſeveral Morning and Evening Prayers: And Prayers before and after the Receiving the Holy Communion.</p>
+            <p>With Graces before and after Meat.</p>
+            <p>To which is added the Life of Mrs. <hi>Elizabeth Robinſon.</hi>
+            </p>
+            <p>
+               <hi>Recommended as uſeful and very neceſſary for the <g ref="char:V">Ʋ</g>ſe of Children, by D.</hi> Stephens.</p>
+            <p>
+               <hi>Printed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>J. Wilkins,</hi> near <hi>Fleet ſtreet</hi> MDCLXXXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="2" facs="tcp:151755:2"/>
+            <head>A <hi>Catechiſm</hi> for <hi>Children.</hi>
+            </head>
+            <p>
+               <hi>Queſtion.</hi> WHo made thee?</p>
+            <p>Anſwer <hi>God.</hi>
+            </p>
+            <p>
+               <hi>Queſtion.</hi> What is God?</p>
+            <p>A. <hi>He is Almighty, Maker, and Governour of all things.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Wherefore did the Lord make thee?</p>
+            <p>A. <hi>To ſerve him.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How oughteſt thou to ſerve him?</p>
+            <p>A. <hi>As he hath appointed in his Laws.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> which be they?</p>
+            <p>A. <hi>The keeping of the Ten Commandments, as they are appointed in the Twentieth Chap. of</hi> Ex.</p>
+            <p>
+               <hi>Q.</hi> What doſt thou believe concerning Je<g ref="char:EOLhyphen"/>ſus Chriſt?</p>
+            <p>A. <hi>I believe he is the only begotten Son of God, of the Father, the Eternal Son of God, and able to ſave ſinners.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What hath Chriſt done for thee?</p>
+            <p>A. <hi>He dyed for me.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> If Chriſt were God, how could he Dye?</p>
+            <p>A. <hi>Chriſt was both</hi> God <hi>and</hi> Man, <hi>as he was God, he could not dye; but being Man, he dyed for my ſins, and roſe again for my Redemption.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Are all then ſaved by the Death of <hi>Chriſt?</hi>
+            </p>
+            <p>A. <hi>No; only ſuch are ſaved as by a lively faith <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay hold on him.</hi>
+            </p>
+            <pb n="3" facs="tcp:151755:2"/>
+            <p>
+               <hi>Q.</hi> What is a lively Faith.</p>
+            <p>A. <hi>A true Belief and faithful relying on all the</hi> Promiſes <hi>of</hi> God, <hi>and a ſtedfaſt belief that Chriſt dyed as well for my Sins as any other, if I, thro Faith, do lay hold on him.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the firſt Man that God Cre<g ref="char:EOLhyphen"/>ated?</p>
+            <p>A. <hi>Adam.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was his Wife?</p>
+            <p>A. <hi>Eve.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Of whom was the firſt Man, <hi>Adam,</hi> a Figure?</p>
+            <p>A. <hi>Of the Second</hi> Adam, <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How do you prove that?</p>
+            <p>A. <hi>The firſt Man</hi> Adam <hi>was made a living Soul, and the laſt</hi> Adam, <hi>Chriſt, was made a quickning Spirit.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What caſt <hi>Adam</hi> out of <hi>Paradice?</hi>
+            </p>
+            <p>A. <hi>Sin.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the Faithfulleſt Man?</p>
+            <p>A. <hi>Abraham.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> In what?</p>
+            <p>A. <hi>In offering his only Son</hi> Iſaac <hi>when he was tryed.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What elſe?</p>
+            <p>A. <hi>He leſe his Native Land, as God com<g ref="char:EOLhyphen"/>manded.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the Meekeſt Man on Earth?</p>
+            <p>A. <hi>Moſes.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the hard-heartedſt Man?</p>
+            <pb n="4" facs="tcp:151755:3"/>
+            <p>A. <hi>Pharoah.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the Patienteſt Man?</p>
+            <p>A. <hi>Job.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Wherein?</p>
+            <p>A. <hi>VVhen the tydings came to him of the ſud<g ref="char:EOLhyphen"/>den loſs of his Goods and his Children, he ſaid, Bleſſed be the Name of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How long did he live?</p>
+            <p>A. <hi>Nine Hundred ſixty nine years.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the only Righteous Man?</p>
+            <p>A. <hi>Noah.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What Man Wreſtled with Gods Angel</p>
+            <p>A. <hi>Jacob.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Where?</p>
+            <p>A. <hi>At</hi> Penel, <hi>when he was going to meet his Brother</hi> Eſau.</p>
+            <p>
+               <hi>Q.</hi> After his Wreſtling with God, who was he called?</p>
+            <p>A. <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> VVhy?</p>
+            <p>A. <hi>Becauſe as a Prince he had power with God.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> VVho was the only Man after Gods own heart?</p>
+            <p>A. <hi>David.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> VVherein?</p>
+            <p>A. <hi>He followed the Lord with all his heart.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> VVho was the wiſeſt Man?</p>
+            <p>A. <hi>Solomon.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> VVherein?</p>
+            <p>A. <hi>In asking of God for Underſtanding.</hi>
+            </p>
+            <pb n="5" facs="tcp:151755:3"/>
+            <p>
+               <hi>Q.</hi> VVho was the ſtrongeſt Man?</p>
+            <p>A. <hi>Sampſon.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> VVherein lay his great ſtrength?</p>
+            <p>A. <hi>In his Hair.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How many Judges Governed <hi>Iſrael?</hi>
+            </p>
+            <p>A. <hi>Seventeen; from</hi> Judah <hi>to</hi> Samuel.</p>
+            <p>
+               <hi>Q.</hi> What occaſioned the Change of <hi>Iſraels</hi> Government?</p>
+            <p>A. Samuels <hi>Son</hi>'s <hi>ill Goverment.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the firſt King of <hi>Iſrael?</hi>
+            </p>
+            <p>A. <hi>Saul.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the ſecond King of <hi>Iſrael?</hi>
+            </p>
+            <p>A. <hi>David.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the third King of <hi>Iſrael?</hi>
+            </p>
+            <p>A. <hi>Solomon.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How long did <hi>Solomon</hi> Reign?</p>
+            <p>A. <hi>Forty Years.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was the Oldeſt Man?</p>
+            <p>A. <hi>Methuſalem.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer before the Receiving of the Holy Sacrament.</head>
+            <p>O Heavenly Father, fit me with a lively Faith, profound humility, filial obedience, inflamed affections, and univerſal charity: O raiſe in my Soul, all thoſe heavenly tranſports of zeal and de<g ref="char:EOLhyphen"/>votion, of love and deſire, of joy and delight, of praiſe and thankſgiving, which becomes the re<g ref="char:EOLhyphen"/>membrance of a crucified Saviour, which becomes one redeemed by the Blood of God, and that for his ſake only that redeemed me, in whoſe <hi>holy Words</hi> I ſum up all the Graces and Bleſſings I ſtand in need of. <hi>Our Father,</hi> &amp;c.</p>
+         </div>
+         <div type="prayer">
+            <pb n="6" facs="tcp:151755:4"/>
+            <head>A Thankſgiving after Receiving the Sacrament.</head>
+            <p>O How plentiful is thy goodneſs, my Lord, and my God, which thou haſt laid up for thoſe that fear thee, and put their truſt in thy Mercy!</p>
+            <p>Was it not love infinite enough deareſt Lord, to give thy ſelf for me on the Croſs? Was not that Sacrifice of thy ſelf ſufficient to expiate the Sins of the whole World? What, Lord, couldſt thou then do more for me?</p>
+            <p>O deareſt Lord, raiſe thou my Devotion to the higheſt pitch it can poſſibly reach, to praiſe thee; en<g ref="char:EOLhyphen"/>large my Soul to its utmoſt extent to love thee <hi>Amen</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Praer for the Morning.</head>
+            <p>BLeſſed be God, for keeping me this Night paſt. God bleſs me, and keep me from ſin and danger this day following; and give me Grace to love and ſerve him, and to honour and obey my Father and Mother, according to his Com<g ref="char:EOLhyphen"/>mandment, that I may inherit the Kingdom of Heaven, thro' Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the Night.</head>
+            <p>BLeſſed be God, for keeping me this day paſt in health and ſafety. God forgive my Sins, and give me, Grace to do ſo no more: God give me Faith in Chriſt, and Salvation by him. God bleſs me and keep me, and my Father and Mother, this night and for ever, thro' Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Morning Prayer.</head>
+            <p>VVE bleſs thee for keeping us this night paſt, and day peeſent hitherto. Now take us, O Lord, into thy protection; guide bleſs, and keep
+<pb n="7" facs="tcp:151755:4"/>us from ſin and danger, Grant we may always ſo demean our ſelves as in thy ſight and preſence, that at the laſt day we may give up our accompts with joy, Hear and anſwer us for the Lord Jeſus Chriſt's ſake, in whoſe name and words we fur<g ref="char:EOLhyphen"/>ther pray unto thee, ſaying, <hi>Our Father,</hi> &amp;c.</p>
+         </div>
+         <div type="prayer">
+            <head>An Evening Praer.</head>
+            <p>WE bleſs thee for the bleſſing of the day paſt, that thro thy goodneſs we have not want<g ref="char:EOLhyphen"/>ed any good thing. Pardon the Sins we have this day committed, and be fully reconciled to us in Chriſt: take us into thy tuition this fol<g ref="char:EOLhyphen"/>lowing night; refreſh us with quiet reſt and ſleep, and raiſe us up the enſuing day (if thou ſhalt in mercy add it to our lives) to ſerve thee with dili<g ref="char:EOLhyphen"/>gence in the diſcharge of the duties of our places, to thy praiſe and our comfort and ſalvation, thro' Jeſus Chriſt our only Lord and Saviour: to whom, with thy ſelf and holy Spirit, be all Honour, Praiſe and Glory, now and evermore. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>Grace before Meat.</head>
+            <p>God bleſs his good Creatures to me.</p>
+         </div>
+         <div type="prayer">
+            <head>Grace after Meat.</head>
+            <p>Bleſſed be God for his Goodneſs in feeding of me.</p>
+         </div>
+         <div type="prayer">
+            <head>Before Meat.</head>
+            <p>God bleſs us and our Food and ſave us throug Faith in Chriſt Jeſus. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>After Meat.</head>
+            <p>Bleſſed be God for our health, food, and hope of Salvation, through Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:151755:5"/>
+            <head>
+               <hi>The Child compleatly Arm'd for Chriſt,</hi> &amp;c.</head>
+            <p>A More notable Inſtance of True ſaving Know<g ref="char:EOLhyphen"/>ledge than what I am going to lay before you, as a worthy pattern to guide and direct your lives and converſations by, has perhaps been ſel<g ref="char:EOLhyphen"/>dom or never recorded, eſpecially in theſe latter woful evil days wherein Sin and wickedneſs ſo much abound, and wherein all manner of Abomi<g ref="char:EOLhyphen"/>nations, with Grief I ſpeak it, are ſo much coun<g ref="char:EOLhyphen"/>tenanced, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Elizabeth Robinſon,</hi> was the Daughter of <hi>John Robinſon,</hi> a very reputable Mercer in the Pariſh of St. <hi>Martins</hi> in the fields: ſhe was carefully, by her Religious Father taught and well acquainted with the Holy Scriptures: But it deed there appeared no<g ref="char:EOLhyphen"/>thing extraordinary in her, till towards the 11th year of her Age, at which time it pleaſed God to viſit her with a ſharp fit of Sickneſs, during the continuance whereof one ask'd her, what ſhe thought would become of her if ſhe ſhould dye? She anſwer'd. <hi>That ſhe was afraid ſhe ſhould go to Hell.</hi> Being asked why ſhe harbour'd ſuch <hi>Thoughts,</hi> ſhe reply'd, <hi>Becauſe ſhe feared ſhe did not love God.</hi> Again, being asked how ſhe did know ſhe did not love God? ſhe replied, <hi>What have I done for God ever ſince I was born?</hi> Being asked again, Whether ſhe was not ſorry that ſhe could not love God? ſhe anſwered, <hi>Yes; but was ſtill afraid it was to late:</hi> ſome few Months After this ſhe had a diſcovery o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hee approaching Death which was no ſmall com<g ref="char:EOLhyphen"/>fort to her: <hi>Anon,</hi> ſaid ſhe, <hi>I ſhall be with Chriſt, and I ſhall live, with him for ever.</hi> So ſhe dyed be<g ref="char:EOLhyphen"/>tween a Eleven and Twelve years old.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
